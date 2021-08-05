@@ -2,6 +2,8 @@
 
 > Build, mint, and send around your own ERC721!
 
+captnseagraves build deployed at exciting-sand.surge.sh
+
 # 🏃‍♀️ Quick Start
 Required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) and [Git](https://git-scm.com/downloads)
 
