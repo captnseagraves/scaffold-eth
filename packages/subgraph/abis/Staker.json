@@ -83,6 +83,19 @@
   },
   {
     "inputs": [],
+    "name": "executed",
+    "outputs": [
+      {
+        "internalType": "bool",
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
     "name": "stake",
     "outputs": [],
     "stateMutability": "payable",
@@ -103,7 +116,33 @@
   },
   {
     "inputs": [],
-    "name": "withdrawal",
+    "name": "timeLeft",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "_amountTimeLeft",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "totalDeposited",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "withdraw",
     "outputs": [],
     "stateMutability": "nonpayable",
     "type": "function"
